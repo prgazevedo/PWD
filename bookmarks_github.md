@@ -80,11 +80,9 @@ Zephyr Project. Zephyr is a new generation, scalable, optimized, secure
 RTOS for multiple hardware
 architectures.](https://github.com/zephyrproject-rtos/zephyr)
 
-[Getting Started with the WisTrio
-- 96Boards](https://www.96boards.org/documentation/iot/wistrio/getting-started/)
+[Getting Started with the WisTrio - 96Boards](https://www.96boards.org/documentation/iot/wistrio/getting-started/)
 
-[Zephyr on 96Boards WisTrio IoT Board
-- 96Boards](https://www.96boards.org/blog/zephyr-on-96boards-wistrio/)
+[Zephyr on 96Boards WisTrio IoT Board - 96Boards](https://www.96boards.org/blog/zephyr-on-96boards-wistrio/)
 
 [RAK5205 not able to connect with Flash Loader Demonstrator | RAK
 Support
