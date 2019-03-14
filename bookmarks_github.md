@@ -2,7 +2,7 @@
 
 # Bookmarks
 
-
+These are the Current Bookmarks for the Project
 
 
 
@@ -229,4 +229,3 @@ Network](https://www.thethingsnetwork.org/docs/gateways/start/build.html)
 
 [LoRaWAN Certified(CM) Products | LoRa
 Alliance™](https://lora-alliance.org/lorawan-certified-products)
-
